@@ -1,8 +1,10 @@
 # Asad Maqsood
 
-**Full Stack & AI Engineer** | CS @ Algoma University | Ontario, Canada
+CS Student @ Algoma University | Ontario, Canada | Open to internships
 
-I build things that ship. From a live gaming marketplace to AI-powered dev tools — real products, not tutorial projects.
+I'm a second-year Computer Science student passionate about full stack development and AI engineering.
+I love building things end-to-end — from the UI to the backend to deployment.
+Currently looking for a software or AI engineering internship where I can contribute and grow.
 
 ---
 
@@ -20,18 +22,18 @@ I build things that ship. From a live gaming marketplace to AI-powered dev tools
 
 ---
 
-## Featured Projects
+## Projects
 
 **[Boost Bids](https://github.com/asadmaqsood1011-spec/boostbids)** — [boostbids.org](https://boostbids.org)
-Full-stack gaming boosting marketplace. Sellers list services, buyers browse and bid. Live in production.
+A gaming boosting marketplace I built and deployed from scratch. Sellers can list services across Valorant, CoD, and Rocket League.
 `React` `Node.js` `MongoDB` `Railway`
 
 **[AI Resume Screener](https://github.com/asadmaqsood1011-spec/ai-resume-screener)**
-Paste your resume + a job description — get an ATS fit score, keyword gaps, and AI-rewritten bullet points in under 10 seconds.
+A tool that scores your resume against a job description and suggests improvements. Built to learn how to work with LLMs and structured API responses.
 `React` `Node.js` `GPT-4o-mini` `Tailwind`
 
 **[DevLog — AI Standup Generator](https://github.com/asadmaqsood1011-spec/devlog-ai)**
-Connect any GitHub repo — auto-generates your daily standup from commit history. Yesterday / Today / Blockers, ready to copy.
+Pulls recent commits from any GitHub repo and generates a daily standup summary using GPT. A fun project that taught me the GitHub API.
 `React` `Node.js` `GitHub API` `GPT-4o-mini`
 
 ---
