@@ -5,7 +5,7 @@ CS Student @ Algoma University | London, Ontario | Open to internships
 I'm a Computer Science student passionate about full stack development and AI engineering.
 I love building things end-to-end — from the UI to the backend to deployment.
 Currently looking for a software or AI engineering internship where I can contribute and grow.
-
+https://portfolio-landing-react.vercel.app/
 ---
 
 ## Tech Stack
